@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'gauthamossphp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_499E40A5863F47A59C5991F1417F4536 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E0FA83BD32424FC2B0791C0DA7F4B3B9 }}
           package: .
